@@ -1,8 +1,2 @@
 # ignoring the dist folders
-/dist/MyEtherWallet-darwin-x64
-/dist/MyEtherWallet-linux-armv7l
-/dist/MyEtherWallet-linux-ia32
-/dist/MyEtherWallet-linux-x64
-/dist/MyEtherWallet-mas-x64
-/dist/MyEtherWallet-win32-ia32
-/dist/MyEtherWallet-win32-x64
+dist/**
