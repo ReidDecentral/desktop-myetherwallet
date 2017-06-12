@@ -1,2 +1,2 @@
 # desktop-myetherwallet
-A Desktop wrapper for of the https://www.myetherwallet.com/
+A Desktop wrapper of the https://www.myetherwallet.com/ using https://electron.atom.io
