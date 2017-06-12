@@ -1,0 +1,26 @@
+{
+  "name": "desktop-myetherwallet",
+  "version": "1.0.0",
+  "description": "An NPM dist of MyEtherWallet. For easier downloading & updating via CLI.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Ernane Luis",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "open": "0.0.5",
+    "electron": "~1.6.2"
+  },
+  "bin": {
+      "mew": "bin/startMEW.js"
+  }
+}
